@@ -1,11 +1,15 @@
 <!doctype html>
 <html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>E</title></head>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+  <title>E</title>
+</head>
 <body>
 <p></p>
-<center><i>Hull a hó...</i></center>
+<div class="centered">Hull a hó...</div>
 <p></p>
-<center><i>Fúj a szél...</i></center>
-<center><i>Dimitrij Lénáról mesél</i></center>
+<div class="centered">Fúj a szél...</div>
+<div class="centered">Dimitrij Lénáról mesél</div>
 </body>
 </html>
